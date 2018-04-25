@@ -1,0 +1,15 @@
+{
+  "veterinary-clinics": [
+    { "id": 1, "name": "Etave", "adress": "Rua Germano Franck, 375", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 2, "name": "Animale", "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 4, "name": "Animale2", "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 5, "name": "Animale3", "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 6, "name": "Animale4", "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 7, "name": "Animale5", "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 8, "name": "Animale Test attr", "adress": "Avenida Santos Dumont, 500"},
+    { "id": 9, "name": "Animale Test phone", "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br"},
+    { "id": 10, "name": "Animale8", "adress": "Avenida Santos Dumont, 500" },
+    { "id": 11, "name": "Animale9 Animale9 Animale9" , "adress": "Avenida Santos Dumont, 500", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" },
+    { "id": 3, "name": "Pet-Clinic", "adress": "Rua Dr Gilberto Studart, 55", "email":"atendimento@etave.com.br","phone":"(85) 3256.0101" }
+  ]
+}
